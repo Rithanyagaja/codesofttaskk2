@@ -1,0 +1,1 @@
+Hi everyone. I am Rithanya . Currently pursuing BE CSE in St Joseph's College Of Engineering Chennai. This respository has my codesoft task of webdevelopment .In this task i have created a landing page,portfolio and a interactive calculator .The js code of calculator has been given at last.Kindly refer accordingly.Thank you codesoft for providing me this opportunity.
