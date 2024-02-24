@@ -1,0 +1,47 @@
+html{
+    height: 100%;
+}
+
+header{
+   h1{
+    text-align: center;
+    text-shadow: 0cm;
+    font-size: x-large;
+    font: weight 500px;;
+    font-style: italic;
+    color: white;
+    border-color:#d1a401;
+    border-style:solid;
+    border-style:block;
+   }
+   h2{
+    padding-top:5px ;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    color:white ;
+    border-color: #d1a401;
+    border-style: solid;
+    margin-top: 30px;
+   }
+
+}
+section{
+        text-align: center;
+        font-style: italic;
+        color: whitesmoke;
+        border-color: #d1a401;
+        border-style: solid;
+        margin:auto;
+    }
+footer{
+    text-align: center;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: center;
+    bottom: 0px;
+    background-color:black;
+    color: white;
+
+}
